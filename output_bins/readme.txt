@@ -1,0 +1,1 @@
+in this folder. all the output generates weather its to preprocess the data or to save the model.Fira-10Btokens.pt is the latest train base model.
